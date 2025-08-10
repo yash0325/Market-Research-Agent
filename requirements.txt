@@ -3,7 +3,7 @@ requests
 beautifulsoup4
 readability-lxml
 newspaper3k
-langchain-openai
-langchain-core
-langchain-text-splitters
+langchain-openai>=0.2.0
+langchain-core>=0.2.0
+langchain-text-splitters>=0.2.0
 pandas
